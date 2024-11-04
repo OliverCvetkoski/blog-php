@@ -1,0 +1,24 @@
+header {
+  padding: 20px;
+  background-color: greenyellow;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+h1 {
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  margin-top: 2rem;
+}
